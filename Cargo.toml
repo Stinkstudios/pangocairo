@@ -33,7 +33,7 @@ glib-sys = { git = "https://github.com/StinkStudios/sys", tag = "0.7.1", version
 gobject-sys = { git = "https://github.com/StinkStudios/sys", tag = "0.7.1", version = "0.7.1" }
 cairo-sys-rs = { git = "https://github.com/StinkStudios/cairo", tag = "0.5.1", version = "0.7.1" }
 cairo-rs = { git = "https://github.com/StinkStudios/cairo", tag = "0.5.1", version = "0.5.1" }
-pangocairo-sys = { git = "https://github.com/StinkStudios/sys", tag = "0.8.1", version = "0.8.1" }
+pangocairo-sys = { git = "https://github.com/StinkStudios/sys", tag = "0.7.1", version = "0.8.1" }
 pango-sys = { git = "https://github.com/StinkStudios/sys", tag = "0.7.1", version = "0.7.1" }
 pango = { git = "https://github.com/StinkStudios/pango", tag = "0.5.1", version = "0.5.1" }
 libc = "0.2"
